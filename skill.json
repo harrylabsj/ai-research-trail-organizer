@@ -1,0 +1,45 @@
+{
+  "slug": "ai-research-trail-organizer",
+  "name": "AI Research Trail Organizer",
+  "version": "1.0.1",
+  "type": "prompt-flow",
+  "description": "Turn user-provided AI chats, snippets, and links into a clean research trail with claims, evidence, questions, and next actions.",
+  "author": "Bell (design)",
+  "license": "MIT-0",
+  "language": "en",
+  "hasExecutableCode": false,
+  "category": "AI & Digital Fluency / Research Workflow",
+  "target_user": "Knowledge workers, students, analysts, writers, and builders who need to organize scattered AI-assisted research notes.",
+  "tags": [
+    "ai-research",
+    "research-notes",
+    "source-tracking",
+    "claim-review",
+    "evidence-map",
+    "knowledge-work"
+  ],
+  "trigger_keywords": [
+    "organize my AI research",
+    "clean up these research snippets",
+    "make a research trail",
+    "track claims and sources",
+    "what evidence do I have for this"
+  ],
+  "use_cases": [
+    "Organizing pasted AI chat excerpts",
+    "Clustering research fragments by topic",
+    "Extracting claims and linking evidence",
+    "Flagging unsupported claims and source gaps",
+    "Creating a next-action list for research follow-up"
+  ],
+  "requires": {},
+  "requires_api": false,
+  "no_code_execution": true,
+  "no_network": true,
+  "no_credentials": true,
+  "execution": "noExec",
+  "promptOnly": true,
+  "contentType": "document-only",
+  "project": "daily-50-skills-2026-05-08",
+  "priority": "P1"
+}
